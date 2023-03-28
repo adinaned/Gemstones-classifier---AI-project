@@ -1,0 +1,2 @@
+Project made in Python for the Artificial Intelligence course in the third year, first semester, in collaboration with three other colleagues. It aims to correctly classify over 87 types of gemstones using convolutional neural networks. The program uses three types of data: training, validation, and testing. To train, all images in the training data will be divided into batches of 32 elements. Then, using the keras module, we will apply maxpooling on all data using the Relu activation function.
+The maximum accuracy that the algorithm can correctly classify images is 54%.
